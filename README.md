@@ -6,7 +6,7 @@
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=reactjs,express,spring,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative,express,spring,django)](https://skillicons.dev)
 
 ### Tools
 
