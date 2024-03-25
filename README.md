@@ -12,4 +12,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
 
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logan's&show_icons=true&theme=radical)
