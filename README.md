@@ -12,6 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
 
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verlias&show_icons=true&theme=tokyonight)
+
 
 
