@@ -2,7 +2,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,HTML,CSS,js,nodejs,java)](https://skillicons.dev)
 
 ### Libraries/Frameworks
 
