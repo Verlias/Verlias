@@ -13,5 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact)
+
 
 
