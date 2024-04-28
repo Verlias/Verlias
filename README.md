@@ -27,5 +27,3 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact&theme=radical )
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verlias&repo=financy)](https://github.com/verlias/financy)
-
