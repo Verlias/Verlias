@@ -11,7 +11,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev)
 
 ### Libraries/Frameworks
 
