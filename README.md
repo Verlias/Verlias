@@ -23,9 +23,19 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verlias&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact&theme=radical)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Verlias&theme=radical&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=verlias&show_icons=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&size_weight=0.15&count_weight=0.5&layout=compact&theme=radical">
+</p>
 
 
 
