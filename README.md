@@ -37,6 +37,6 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact&theme=radical">
 </p>
   
-
+ 
 
  
