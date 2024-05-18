@@ -34,6 +34,8 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=verlias&show_icons=true&theme=radical">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact&theme=radical">
+
 </p>
   
  
