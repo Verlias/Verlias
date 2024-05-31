@@ -22,7 +22,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
-
+  
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Verlias&theme=radical&hide_border=true&border_radius=5&card_width=800">
