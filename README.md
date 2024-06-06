@@ -8,7 +8,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 * 📫 How to reach me: lsv27@drexel.edu
 
-* ⚡ Fun fact I love cooking
+* ⚡ Fun fact I love cooking 
 
 
 ### Languages
