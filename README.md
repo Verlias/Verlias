@@ -5,6 +5,8 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 * 👨‍💻 I’m currently learning **C#**
 
 [//]: # (* 👷🏼‍♂️ I’m currently building a **Sports Analysis Mobile App**)
+* 👷🏼‍♂️ I’m currently building **Sportify**
+
 
 
 
