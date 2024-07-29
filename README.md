@@ -25,7 +25,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,vscode,visualstudio,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,aws,vscode,visualstudio,idea)](https://skillicons.dev)
   
 
 <p align="center">
