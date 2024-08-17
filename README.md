@@ -13,11 +13,11 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 ### Languages
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,cs,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,c,cpp,js,html,css)](https://skillicons.dev)
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,spring,dotnet,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,pytorch,spring,react,express,)](https://skillicons.dev)
 
 ### Tools
 
