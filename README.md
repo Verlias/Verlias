@@ -38,7 +38,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 
 
-</p>
+</p> 
   
  
 
