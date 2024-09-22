@@ -17,7 +17,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,pytorch,spring,react,express,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,pytorch,spring,react,express,flask)](https://skillicons.dev)
 
 ### Tools
 
