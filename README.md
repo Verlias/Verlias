@@ -1,6 +1,8 @@
 # 🧑🏻‍💻 Logan Voravong.  
 
-Hello! I'm Logan, a Computer Science student with concentrations in Artificial Intelligence and Machine Learning, as well as algorithms and theory. I'm also pursuing a minor in Mathematics, and I'm passionate about leveraging technology to drive innovation and solve complex problems.
+Hello! I'm Logan, a **Computer Science & Mathematics** student with concentrations in Artificial Intelligence and Machine Learning, as well as Algorithms and Theory. I'm particularly interested in **Machine Learning Engineering**, **low-level programming**, and **Robotics & Automation**. Passionate about tackling intricate challenges, I’m dedicated to using my technical knowledge to explore new possibilities in automation and intelligent systems, continuously pushing the limits of what technology can achieve.
+
+
  
 * 👨‍💻 I’m currently learning **C & Bash**
 
