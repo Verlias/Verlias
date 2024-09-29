@@ -21,7 +21,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,aws,vscode,visualstudio,idea,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,bash,aws,vim,vscode,visualstudio,idea,postman)](https://skillicons.dev)
   
 
 <p align="center">
@@ -35,7 +35,7 @@ Hello! I'm Logan, a Computer Science student with concentrations in Artificial I
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=verlias&show_icons=true&theme=radical">
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact&theme=radical">
-
+ 
 
 
 </p> 
