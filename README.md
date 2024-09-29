@@ -6,7 +6,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 
  
-* 👨‍💻 I’m currently learning **Low-level Programming & Bash**
+* 👨‍💻 I’m currently learning **Data Structures & Algorithms**
 
 [//]: # (* 👷🏼‍♂️ I’m currently building a **Sports Analysis Mobile App**)
 
