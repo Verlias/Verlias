@@ -21,7 +21,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,pytorch,spring,react,express,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,pytorch,spring,react,express,flask,fastapi)](https://skillicons.dev)
 
 ### Tools
 
