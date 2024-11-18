@@ -29,11 +29,6 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,bash,aws,vim,vscode,visualstudio,idea,postman)](https://skillicons.dev)
   
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Verlias&theme=algolia&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
 ---  
  
 
