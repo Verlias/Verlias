@@ -6,10 +6,10 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 
  
-* 👨‍💻 I’m currently learning **low-level programming**
+* 👨‍💻 I’m currently learning **TypeScript**
 
 [//]: # (* 👷🏼‍♂️ I’m currently building a **Sports Analysis Mobile App**)
-* 👷🏼‍♂️ I’m currently building a **Captions Translation Software**
+* 👷🏼‍♂️ I’m currently building a **Pull Request AI Agent**
 
 
 
