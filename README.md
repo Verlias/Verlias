@@ -28,7 +28,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,bash,aws,vim,vscode,visualstudio,idea,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,bash,aws,vim,vscode,visualstudio,idea,postman)](https://skillicons.dev)
   
 
 ---  
