@@ -10,13 +10,6 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 [//]: # (* 👷🏼‍♂️ I’m currently building a **Sports Analysis Mobile App**)
 
-
-
-* 📫 How to reach me: lsv27@drexel.edu
- 
-* ⚡ Fun fact I love cooking 
- 
-
 ### Languages
  
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,c,cpp,js,html,css)](https://skillicons.dev)
