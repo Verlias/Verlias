@@ -12,15 +12,15 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 ### Languages
  
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,golang,c,cpp,js,html,css)](https://skillicons.dev)
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flask,pytorch,spring,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,pytorch,spring,react,nodejs,express)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,bash,aws,vim,vscode,visualstudio,idea,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,bash,aws)](https://skillicons.dev)
   
 
 ---  
