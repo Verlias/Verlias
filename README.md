@@ -20,7 +20,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,bash,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,terraform,bash,aws)](https://skillicons.dev)
   
 
 ---  
@@ -37,3 +37,4 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
   
 
   
+
