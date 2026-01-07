@@ -6,7 +6,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 
 
  
-* 👨‍💻 I’m currently learning Go
+* 👨‍💻 I’m currently learning **Go**
 
 [//]: # (* 👷🏼‍♂️ I’m currently building a **Sports Analysis Mobile App**)
 
@@ -37,6 +37,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
   
 
   
+
 
 
 
