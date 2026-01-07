@@ -23,20 +23,8 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,terraform,bash,aws)](https://skillicons.dev)
   
 
----  
- 
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=verlias&show_icons=true&theme=github_dark">
-   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verlias&layout=compact&theme=github_dark">
-
- 
-
-
-</p> 
   
 
-  
 
 
 
