@@ -24,7 +24,7 @@ I'm particularly interested in **Machine Learning Engineering**, **low-level pro
   
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=verlia&theme=dark"
+    src="https://github-readme-stats-fast.vercel.app/api?username=verlias&theme=dark"
     width="420"
   />
 </p>
