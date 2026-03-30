@@ -16,11 +16,11 @@ I'm particularly interested in **ML infrastructure**, **reliability**, and **mon
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,scikitlearn,react,flask,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,scikitlearn,fastapi,react,flask,spring)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,terraform,bash,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,mongodb,postgresql)](https://skillicons.dev)
   
 <p align="center">
   <img
