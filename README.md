@@ -12,11 +12,11 @@ I'm particularly interested in **ML infrastructure**, **reliability**, and **mon
 
 ### Languages
  
-[![My Skills](https://skillicons.dev/icons?i=python,java,golang,c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,golang,java,c,cpp,js)](https://skillicons.dev)
 
 ### Libraries/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,flask,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,scikitlearn,react,flask,spring)](https://skillicons.dev)
 
 ### Tools
 
