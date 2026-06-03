@@ -20,7 +20,7 @@ I'm particularly interested in **ML infrastructure**, **reliability**, and **mon
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,prometheus,grafana,mongodb)](https://skillicons.dev)
   
 <p align="center">
   <img
