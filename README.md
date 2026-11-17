@@ -6,7 +6,7 @@ I'm particularly interested in **ML infrastructure**, **reliability**, and **mon
 
 
  
-* 👨‍💻 I’m currently learning **AI agents & agentic systems**
+* 👨‍💻 I’m currently learning **AI Engineering**
 
 [//]: # (* 👷🏼‍♂️ I’m currently building a **Sports Analysis Mobile App**)
 
